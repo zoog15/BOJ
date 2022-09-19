@@ -3,5 +3,5 @@ answer = ["muzi","frodo","apeach","neo"]
 user = dict()
 
 user["muzi"] ="frodo"
-user["muzi"].
+user["muzi"]
 print(user)
