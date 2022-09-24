@@ -20,7 +20,6 @@ cards = list(map(int, input().split()))
 cards.sort()
 
 m = int(input())
-
 nums = list(map(int, input().split()))
 
 answer = []
